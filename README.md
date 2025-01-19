@@ -34,7 +34,7 @@ Kelas : G22 <br>
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo2.jpg?raw=true)
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo3.jpg?raw=true)
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo4.jpg?raw=true)
-  <h5>5) pbo5.PNG"</h5>
+  ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo5.jpg?raw=true)
   <h5>6.1) pbo6.1.PNG"</h5>
   <h5>6.2) pbo6.2.PNG"</h5>
   <h5>7) pbo7.PNG"</h5>
