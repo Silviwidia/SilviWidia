@@ -30,7 +30,8 @@ Kelas : G22 <br>
    - Ikuti instruksi yang muncul di GUI untuk melakukan operasi yang diinginkan..</p>
 
    <h3>3. Screenshot program </h3>
-   <h5> Laporan_SistemManajementSekolah</h5>
+   <h5> pbo1.PNG</h5>
+   
 
 
    
