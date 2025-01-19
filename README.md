@@ -30,7 +30,19 @@ Kelas : G22 <br>
    - Ikuti instruksi yang muncul di GUI untuk melakukan operasi yang diinginkan..</p>
 
    <h3>3. Screenshot program </h3>
-   <h5> pbo1.PNG</h5>
+  <h5>1) pbo1.PNG"</h5>
+  <h5>2) pbo2.PNG"</h5>
+  <h5>3) pbo3.PNG"</h5>
+  <h5>4) pbo4.PNG"</h5>
+  <h5>5) pbo5.PNG"</h5>
+  <h5>6.1) pbo6.1.PNG"</h5>
+  <h5>6.2) pbo6.2.PNG"</h5>
+  <h5>7) pbo7.PNG"</h5>
+  <h5>8) pbo8.PNG"</h5>
+
+<h3>3. Video Demo Program </h3>
+  <a href="https://drive.google.com/file/d/1snwGt7OC0mz9k1mBHnIUJW5kP2tg3_B3/view?usp=drivesdk">LINK G-DRIVE</a>
+   
    
 
 
