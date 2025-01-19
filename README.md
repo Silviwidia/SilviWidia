@@ -38,7 +38,7 @@ Kelas : G22 <br>
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo6.1.jpg?raw=true)
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo6.2.jpg?raw=true)
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo7.jpg?raw=true)
-  <h5>8) pbo8.PNG"</h5>
+  ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo8.jpg?raw=true)
 
 <h3>3. Video Demo Program </h3>
   <a href="https://drive.google.com/file/d/1snwGt7OC0mz9k1mBHnIUJW5kP2tg3_B3/view?usp=drivesdk">LINK G-DRIVE</a>
