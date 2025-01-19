@@ -32,7 +32,7 @@ Kelas : G22 <br>
    <h3>3. Screenshot program </h3>
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo1.PNG?raw=true)
   ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo2.jpg?raw=true)
-  <h5>3) pbo3.PNG"</h5>
+  ![image alt](https://github.com/Silviwidia/SilviWidia/blob/main/pbo3.jpg?raw=true)
   <h5>4) pbo4.PNG"</h5>
   <h5>5) pbo5.PNG"</h5>
   <h5>6.1) pbo6.1.PNG"</h5>
